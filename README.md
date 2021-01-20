@@ -1,4 +1,6 @@
 # speak_ex
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frlfagan%2Fspeak_ex.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Frlfagan%2Fspeak_ex?ref=badge_shield)
+
 An Elixir framework for building telephony applications, inspired heavily by Ruby's [Adhearsion](http://adhearsion.com/).
 
 SpeakEx enables easy integration of Elixir and Phoenix voice applications with [Asterisk](http://www.asterisk.org/). For example, build a simple voice survey application with [Elixir Survey Tutorial](https://github.com/smpallen99/elixir_survey_tutorial) or a call out system.
@@ -126,3 +128,6 @@ More documentation is coming soon.
 The source code is released under the MIT License.
 
 Check [LICENSE](LICENSE) for more information.
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frlfagan%2Fspeak_ex.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Frlfagan%2Fspeak_ex?ref=badge_large)
