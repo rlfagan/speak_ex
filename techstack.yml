@@ -1,0 +1,32 @@
+repo_name: rlfagan/speak_ex
+report_id: a6a1a709186f3aa9175934bd04fe13cd
+version: 0.1
+repo_type: Public
+timestamp: '2024-06-20T22:59:41+00:00'
+requested_by: smpallen99
+provider: github
+branch: master
+detected_tools_count: 2
+tools:
+- name: Elixir
+  description: Dynamic, functional language designed for building scalable and maintainable
+    applications
+  website_url: http://elixir-lang.org/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1974/drop.png
+  detection_source_url: https://github.com/rlfagan/speak_ex
+  detection_source: Repo Metadata
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/rlfagan/speak_ex
+  detection_source: Repo Metadata
